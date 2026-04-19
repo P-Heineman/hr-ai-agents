@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+tavily-python
+groq
+pydantic
+python-multipart
+google-genai

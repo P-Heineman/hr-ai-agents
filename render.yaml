@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: hr-agents-api
+    runtime: python
+    buildCommand: pip install uv && uv sync --frozen
+    startCommand: uv run uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GEMINI_API_KEY_3
+        sync: false
+      - key: GEMINI_API_KEY_4
+        sync: false
+      - key: GEMINI_API_KEY_5
+        sync: false
+      - key: TAVILY_API_KEY
+        sync: false
+      - key: N8N_WEBHOOK_URL
+        sync: false
