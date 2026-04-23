@@ -101,11 +101,11 @@ The process doesn't end with analysis. The system triggers automated workflows b
 ---
 
 ## 👥 The Team
-*   **Noa Binet** - AI & Backend Developer
-*   **Chavi Berger** - AI & Backend Developer
-*   **Passi Heineman** - AI & Infrastructure Architect
-*   **Ruti Maman** - Fullstack Developer
-*   **Racheli Saslo** - Frontend & UX Expert
+*   **Noa Binet**
+*   **Chavi Berger**
+*   **Pessi Heineman**
+*   **Ruti Maman**
+*   **Racheli Saslo**
 
 ---
 
