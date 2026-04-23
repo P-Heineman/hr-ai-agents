@@ -101,8 +101,8 @@ The process doesn't end with analysis. The system triggers automated workflows b
 ---
 
 ## 👥 The Team
-*   **Noa Binet**
 *   **Chavi Berger**
+*   **Noa Binet**
 *   **Pessi Heineman**
 *   **Ruti Maman**
 *   **Racheli Saslo**
