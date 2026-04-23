@@ -99,5 +99,18 @@ The process doesn't end with analysis. The system triggers automated workflows b
 *   **CRM Integration:** Deep integration with HR management systems like Salesforce or Workday.
 
 ---
+
+## 👥 The Team
+*   **Noa Binet** - AI & Backend Developer
+*   **Chavi Berger** - AI & Backend Developer
+*   **Passi Heineman** - AI & Infrastructure Architect
+*   **Ruti Maman** - Fullstack Developer
+*   **Racheli Saslo** - Frontend & UX Expert
+
+---
+
 *Created with ❤️ for the Direct Insurance Hackathon.*
+
+---
+
 
